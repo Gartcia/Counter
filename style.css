@@ -64,6 +64,7 @@ li{
     font-size: 5em;
 }
 #selections a{
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
     cursor: pointer;
     font-size: large;
     display: flex;
